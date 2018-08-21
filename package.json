@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Cellis9421/Admin-Alerts#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0",
+    "nodemailer": "^4.6.8"
   }
 }
